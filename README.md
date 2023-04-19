@@ -1,1 +1,1 @@
-# Fashion-Minist---Pytorch
+# Fashion Minist-Pytorch
